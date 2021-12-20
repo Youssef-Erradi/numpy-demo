@@ -1,3 +1,19 @@
+#Eclipse/PyDev Specific GitIgnore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
